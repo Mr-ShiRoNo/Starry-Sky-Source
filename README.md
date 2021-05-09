@@ -1,2 +1,2 @@
 # Starry-Sky-Source
-This is Starry-Sky's source code.
+This is Starry-Sky source code.
