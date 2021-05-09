@@ -1,3 +1,6 @@
+# Starry Sky
+This is a bot for Discord management.
+
 # Developers
 These are the people involved in the creation of this bot, denoted by User ID.
 
