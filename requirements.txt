@@ -1,0 +1,6 @@
+discord.py
+requests
+jishaku
+pip
+aiohttp
+uptime
