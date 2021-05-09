@@ -12,15 +12,15 @@ Admin: 663155028793491477
 
 # How to deploy
 
-1 `git clone https://github.com/Mr-ShiRoNo/Starry-Sky.git`
+1 `git clone https://github.com/Mr-ShiRoNo/Starry-Sky-Source.git`
 
-2 `cd Starry-Sky`
+2 `cd Starry-Sky-Source`
 
 3 `pip3 install -r requirements.txt`
 
 (If there are any missing modules, please add them separately.)
 
-4 `python3 StarrySky.py`
+4 `python3 StarSky.py`
 
 # Invite url
 If you need invite urls, please use these.
