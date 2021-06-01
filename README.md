@@ -31,7 +31,7 @@ If you need invite urls, please use these.
 
 [All role(s)](https://discord.com/api/oauth2/authorize?client_id=797378859199627284&permissions=4228906231&scope=bot)
 
-# Main modules versions
+# Main modules version
 These are the basic modules.
 
 [Discord.py 1.7.1](https://github.com/Rapptz/discord.py/)
@@ -39,7 +39,7 @@ These are the basic modules.
 [Python 3.8.8](https://www.python.org/)
 
 # License
-The license for this repository is [MIT](https://github.com/Mr-ShiRoNo/Starry-Sky/blob/master/LICENSE/) License.
+The license for this repository is [MIT License](https://github.com/Mr-ShiRoNo/Starry-Sky/blob/master/LICENSE/).
 
 >You can handle the software freely.
 
