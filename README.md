@@ -20,7 +20,7 @@ Admin: 663155028793491477
 
 (If there are any missing modules, please add them separately.)
 
-4 `python3 StarSky.py`
+4 `python3 Starry-Sky.py`
 
 # Invite url
 If you need invite urls, please use these.
@@ -34,7 +34,7 @@ If you need invite urls, please use these.
 # Main modules version
 These are the basic modules.
 
-[Discord.py 1.7.1](https://github.com/Rapptz/discord.py/)
+[Discord.py 2.0.0a](https://github.com/Rapptz/discord.py/)
 
 [Python 3.8.8](https://www.python.org/)
 
