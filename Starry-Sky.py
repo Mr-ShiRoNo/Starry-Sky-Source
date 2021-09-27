@@ -1254,6 +1254,5 @@ async def help(ctx,name=None):
                     await send_message.add_reaction("⬅")
                     await send_message.add_reaction("🗑")
                     await send_message.add_reaction("⏹")
-
-token = os.environ['BOT_OF_TOKEN']             
+                    
 bot.run(token)
