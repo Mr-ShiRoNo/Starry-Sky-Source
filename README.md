@@ -1,6 +1,12 @@
 # Starry Sky
 This is a bot for Discord management.
 
+# The glows disappeared from the sky.
+Starry Sky ended to support for Discord Operation.
+Thanks for using.
+
+W.Noel
+
 # Developers
 These are the people involved in the creation of this bot, denoted by User ID.
 
